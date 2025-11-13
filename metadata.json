@@ -1,0 +1,5 @@
+{
+  "name": "VisionAI - Accessibility Assistant",
+  "description": "An AI-powered accessibility assistant for blind and visually impaired users. Upload an image to get a detailed scene description, object identification, and text reading to help navigate the world.",
+  "requestFramePermissions": []
+}
