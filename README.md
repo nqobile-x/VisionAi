@@ -253,9 +253,14 @@ npm run dev
 ---
 
 ## 📄 License
+<img width="994" height="538" alt="Screenshot 2025-11-13 231343" src="https://github.com/user-attachments/assets/b1e19527-4571-41a2-bbbc-fbb9aa534f79" />
 
 MIT License - **Open Source for Accessibility**
 
 *Core technology open-sourced to enable global accessibility innovation*
 
 ---
+
+
+https://github.com/user-attachments/assets/bc10b677-1d29-4db3-93ae-52ffbe8b0730
+
