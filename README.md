@@ -2,10 +2,10 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# 👁️ VisionAI
+#  VisionAI
 ### AI Accessibility Assistant for the Blind | Real-Time Eyes for 285 Million People
 
-[![AI Studio](https://img.shields.io/badge/⚡-Open%20in%20AI%20Studio-orange)](https://ai.studio/apps/drive/15dpJ84q5sf8AP8knpgXsjfhYL6aUomDz) [![Live Demo](https://img.shields.io/badge/🚀-Try%20It%20Now-success)](https://visionai.demo.com) 
+[![AI Studio](https://img.shields.io/badge/-Open%20in%20AI%20Studio-orange)](https://ai.studio/apps/drive/15dpJ84q5sf8AP8knpgXsjfhYL6aUomDz) [![Live Demo](https://img.shields.io/badge/-Try%20It%20Now-success)](https://visionai.demo.com) 
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 What It Does
+##  What It Does
 
 ```
 Phone Camera → AI Vision Analysis → Voice Description → User Independence
@@ -53,7 +53,7 @@ Phone Camera → AI Vision Analysis → Voice Description → User Independence
 
 ---
 
-## 🚀 10 Specialized Modes
+##  10 Specialized Modes
 
  **Scene Description** - "You're in a coffee shop, counter 15 feet ahead, stairs to your right"  
  **Text Reader (OCR)** - Reads signs, menus, documents, medicine labels  
@@ -156,7 +156,7 @@ if (hazardDetected && dangerLevel === 'CRITICAL') {
 
 ---
 
-## 🎯 Key Innovations
+##  Key Innovations
 
 ### 1. **Real-Time Performance**
 - <2 second response time (critical for safety)
@@ -186,7 +186,7 @@ if (hazardDetected && dangerLevel === 'CRITICAL') {
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### For Users:
 ```bash
@@ -222,18 +222,18 @@ npm run dev
 - Corporate partnerships
 
 **Why This Matters to Employers:**
-✅ Demonstrates social impact commitment  
-✅ Proves AI/ML expertise (Google Gemini Vision)  
-✅ Shows mobile development skills (React Native)  
-✅ User-centered design thinking  
-✅ Accessibility compliance knowledge  
-✅ Can scale to millions of users  
+Demonstrates social impact commitment  
+Proves AI/ML expertise (Google Gemini Vision)  
+ Shows mobile development skills (React Native)  
+ User-centered design thinking  
+ Accessibility compliance knowledge  
+ Can scale to millions of users  
 
 ---
 
 <div align="center">
 
-### 💼 Available for: Full-time • Contract • Speaking Engagements
+###  Available for: Full-time • Contract • Speaking Engagements
 
 **285 million people need independence. Let's build it together.**
 
@@ -242,7 +242,7 @@ npm run dev
 
 ---
 
-## 📄 License
+##  License
 <img width="994" height="538" alt="Screenshot 2025-11-13 231343" src="https://github.com/user-attachments/assets/b1e19527-4571-41a2-bbbc-fbb9aa534f79" />
 
 MIT License - **Open Source for Accessibility**
