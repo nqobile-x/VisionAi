@@ -9,7 +9,7 @@
 
 ---
 
-## ⚡ 10-Second Pitch
+
 
 **Problem:** 285M blind/visually impaired people can't independently navigate, read, or identify objects  
 **Solution:** AI assistant that describes scenes, reads text, identifies objects via camera + voice  
