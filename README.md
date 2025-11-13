@@ -32,17 +32,17 @@ Phone Camera → AI Vision Analysis → Voice Description → User Independence
 
 | Metric | Value |
 |--------|-------|
-| 👥 **Target Users** | 285 million blind/visually impaired people worldwide |
-| ⚡ **Response Time** | <2 seconds for scene description |
-| 🌍 **Languages** | 50+ languages supported |
-| ✅ **Accuracy** | 96% object identification (tested with 10,000+ images) |
-| 📱 **Platforms** | iOS, Android, Web |
-| 🎯 **Use Cases** | 10 specialized modes (navigation, reading, shopping, etc.) |
-| 🏆 **Recognition** | Winner - Accessibility Innovation Award 2024 |
+|  **Target Users** | 285 million blind/visually impaired people worldwide |
+|  **Response Time** | <2 seconds for scene description |
+|  **Languages** | 50+ languages supported |
+|  **Accuracy** | 96% object identification (tested with 10,000+ images) |
+|  **Platforms** | iOS, Android, Web |
+|  **Use Cases** | 10 specialized modes (navigation, reading, shopping, etc.) |
+|  **Recognition** | Winner - Accessibility Innovation Award 2024 |
 
 ---
 
-## 🛠️ Tech Stack (Production-Ready)
+##  Tech Stack (Production-Ready)
 
 **AI/ML:** Google Gemini 1.5 Pro Vision • OCR • Speech Recognition  
 **Mobile:** React Native • Expo • Native Camera APIs  
@@ -55,41 +55,41 @@ Phone Camera → AI Vision Analysis → Voice Description → User Independence
 
 ## 🚀 10 Specialized Modes
 
-✅ **Scene Description** - "You're in a coffee shop, counter 15 feet ahead, stairs to your right"  
-✅ **Text Reader (OCR)** - Reads signs, menus, documents, medicine labels  
-✅ **Object Identification** - "Red apple, medium size, in your right hand"  
-✅ **Navigation Assistant** - Turn-by-turn obstacle avoidance  
-✅ **Color Identifier** - "Navy blue shirt with white buttons, pairs well with khakis"  
-✅ **People Detection** - "Two people: one 5 feet ahead facing you, one sitting left"  
-✅ **Emergency Safety** - "STOP! Car approaching from right, 20 feet away"  
-✅ **Document Helper** - Guides form-filling with field-by-field instructions  
-✅ **Shopping Assistant** - Reads product labels, prices, expiration dates  
-✅ **Currency Identifier** - "Two bills: one $20, one $5, total $25"  
+ **Scene Description** - "You're in a coffee shop, counter 15 feet ahead, stairs to your right"  
+ **Text Reader (OCR)** - Reads signs, menus, documents, medicine labels  
+ **Object Identification** - "Red apple, medium size, in your right hand"  
+ **Navigation Assistant** - Turn-by-turn obstacle avoidance  
+ **Color Identifier** - "Navy blue shirt with white buttons, pairs well with khakis"  
+ **People Detection** - "Two people: one 5 feet ahead facing you, one sitting left"  
+ **Emergency Safety** - "STOP! Car approaching from right, 20 feet away"  
+ **Document Helper** - Guides form-filling with field-by-field instructions  
+ **Shopping Assistant** - Reads product labels, prices, expiration dates  
+ **Currency Identifier** - "Two bills: one $20, one $5, total $25"  
 
 ---
 
-## 💡 Why This Matters
+##  Why This Matters
 
 ### Current Reality for Blind Users:
-- ❌ Can't read signs, menus, labels independently
-- ❌ Dangerous navigation (stairs, traffic, obstacles)
-- ❌ Need constant human assistance
-- ❌ Limited job opportunities
-- ❌ Existing solutions cost $5,000+ (specialized devices)
+-  Can't read signs, menus, labels independently
+-  Dangerous navigation (stairs, traffic, obstacles)
+-  Need constant human assistance
+-  Limited job opportunities
+-  Existing solutions cost $5,000+ (specialized devices)
 
 ### With VisionAI:
-- ✅ Complete independence for daily tasks
-- ✅ Real-time safety warnings (traffic, hazards)
-- ✅ Free smartphone app (no expensive devices)
-- ✅ Voice-controlled (hands-free operation)
-- ✅ Works offline for core features
+- Complete independence for daily tasks
+-  Real-time safety warnings (traffic, hazards)
+-  Free smartphone app (no expensive devices)
+-  Voice-controlled (hands-free operation)
+-  Works offline for core features
 
 ---
 
 
 ---
 
-## 🏗️ Technical Highlights
+##  Technical Highlights
 
 ### AI-Powered Safety First Design
 ```javascript
@@ -114,15 +114,15 @@ if (hazardDetected && dangerLevel === 'CRITICAL') {
 - Works in low-light/night conditions
 
 ### Privacy & Ethics
-- ✅ All processing respects user privacy
-- ✅ No facial recognition without explicit consent
-- ✅ Data encrypted end-to-end
-- ✅ WCAG AAA accessibility compliant
-- ✅ Open-source core for transparency
+- All processing respects user privacy
+-  No facial recognition without explicit consent
+-  Data encrypted end-to-end
+-  WCAG AAA accessibility compliant
+-  Open-source core for transparency
 
 ---
 
-## 📈 Real-World Validation
+##  Real-World Validation
 
 **Beta Testing Results (6 months, 500 users):**
 - 98% user satisfaction rate
@@ -139,7 +139,7 @@ if (hazardDetected && dangerLevel === 'CRITICAL') {
 
 ---
 
-## 🌍 Global Impact Potential
+##  Global Impact Potential
 
 **285 Million People Need This:**
 - 39 million completely blind
