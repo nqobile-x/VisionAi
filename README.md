@@ -86,16 +86,6 @@ Phone Camera → AI Vision Analysis → Voice Description → User Independence
 
 ---
 
-## 🎬 See It In Action
-
-**Real User Testimonial:**  
-> "VisionAI changed my life. I can shop alone, navigate my city, and read my mail without asking for help. For the first time in 20 years, I feel truly independent." - Maria S., Beta Tester
-
-⚡ **AI Studio App:** [Open in Google AI Studio](https://ai.studio/apps/drive/15dpJ84q5sf8AP8knpgXsjfhYL6aUomDz)  
-
-▶️ **User Stories (3 min):** [Watch Video](https://youtube.com/visionai-stories)  
-
-💻 **GitHub:** [View Code](https://github.com/nqobile-x/visionai)  
 
 ---
 
