@@ -241,18 +241,6 @@ npm run dev
 
 ---
 
-
----
-
-## 🌟 Join the Movement
-
-**For Users:** [Download the app](https://visionai.app/download) • [Join beta testing](https://visionai.app/beta)  
-**For Developers:** [Contribute on GitHub](https://github.com/yourusername/visionai) • [Read API docs](https://docs.visionai.com)  
-**For Organizations:** [Partnership inquiries](mailto:partnerships@visionai.com)  
-**For Investors:** [View pitch deck](https://pitch.visionai.com)  
-
----
-
 <div align="center">
 
 ### 💼 Available for: Full-time • Contract • Speaking Engagements
